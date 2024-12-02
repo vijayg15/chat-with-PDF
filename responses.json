@@ -1,0 +1,50 @@
+[
+  {
+    "Input": "What is the name of the company?",
+    "Response": "The name of the company is Zania, Inc."
+  },
+  {
+    "Input": "Who is the CEO of the company?",
+    "Response": "The CEO of the company is Shruti Gupta."
+  },
+  {
+    "Input": "What is their vacation policy?",
+    "Response": "Zania, Inc. provides paid vacation to all full-time regular employees immediately upon hire or after completing an introductory period. Vacation time is accrued based on length of service, with part-time employees receiving vacation proportionate to their work schedule. Vacation must be taken in increments of at least a specified number of hours or days, and employees may be required to use unused vacation during certain leaves of absence. The specific details regarding the amount of vacation accrued and the maximum accrual limit are not provided in the context."
+  },
+  {
+    "Input": "What is the termination policy?",
+    "Response": "The termination policy states that the Company is concerned with consistent enforcement of its policies but is not obligated to follow any disciplinary or grievance procedure. Employees may be disciplined or terminated without prior warning or procedure, depending on the circumstances. Data Not Available."
+  },
+  {
+    "Input": "Who is Vijay Gupta?",
+    "Response": "Data Not Available."
+  },
+  {
+    "Input": "Who is the director of the company?",
+    "Response": "Data Not Available."
+  },
+  {
+    "Input": "Who is Shruti Gupta?",
+    "Response": "Shruti Gupta is the CEO of Zania, Inc."
+  },
+  {
+    "Input": "What is the company's mission and vision statement?",
+    "Response": "Data Not Available."
+  },
+  {
+    "Input": "What are the Ethics Code?",
+    "Response": "The Ethics Code of Zania, Inc. emphasizes conducting business honestly and ethically, improving the quality of services and products, and maintaining a reputation for honesty, fairness, respect, responsibility, integrity, trust, and sound business judgment. Employees and managers are expected to adhere to high standards of integrity and loyalty to the company, refrain from misrepresenting the company, and not speak on its behalf unless authorized. Confidentiality of trade secrets and proprietary information is also highlighted. Violation of the Code can lead to disciplinary actions, including termination."
+  },
+  {
+    "Input": "What if the Ethics Code is violated?",
+    "Response": "Violation of the Code of Ethics can result in discipline, up to and including termination of employment. The degree of discipline may be influenced by voluntary disclosure of the violation and cooperation in any subsequent investigation."
+  },
+  {
+    "Input": "What is their wage and hour policy?",
+    "Response": "The wage and hour policy includes attendance requirements, business expenses, direct deposit, employment classifications, and guidelines on workweek structure, meal and rest periods, overtime, pay periods, reporting time pay, travel time pay, and wage disclosure protection. Specific details on each component are not provided in the context."
+  },
+  {
+    "Input": "At which page vacation policy is mentioned?",
+    "Response": "The vacation policy is mentioned on page 24."
+  }
+]
